@@ -1,1 +1,2 @@
 # System-Approach-to-Bitcoin-s-Blockchain-System
+This project is related to "Systems Analysis" course. In this project, we analyzed Bitcoin's Blockchain system and had a system approach. In this regard, We Divided Bitcoin's blockchain system into its subsystems, analyzed the relationships between different components, classified the components, recognized the system's structure and complexity, and evaluated the system's changes and life cycle.
